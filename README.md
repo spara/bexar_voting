@@ -7,11 +7,11 @@ Polling Place Maps and data for Bexar County
 This map is embeddable, just copy/paste this into your page:
 
 ```
-<script src="https://embed.github.com/view/geojson/spara/bexar_voting/master/geojson/bexar_05_2014_early_voting.geojson"></script> 
+<script src="https://embed.github.com/view/geojson/spara/bexar_voting/master/data/geojson/bexar_05_2014_early_voting.geojson"></script> 
 ```
 
 For a somewhat responsive map, copy/paste this into your page:
 
 ```
-<iframe height="640" width="420" frameborder="0" src="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/spara/bexar_voting/master/geojson/bexar_05_2014_early_voting.geojson" style="width: 100%; max-height: 100%;">
+<iframe height="640" width="420" frameborder="0" src="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/spara/bexar_voting/master/data/geojson/bexar_05_2014_early_voting.geojson" style="width: 100%; max-height: 100%;">
 ```
